@@ -11,7 +11,7 @@ const groceryData  = [
         brand: 'Daves',
         units: '1 pack',
         quantity: 2,
-        isPurchased: false  
+        isPurchased: true  
     },
     {
         item: 'Tomatoes',
